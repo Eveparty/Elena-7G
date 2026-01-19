@@ -1,3 +1,4 @@
+
 body {
     background-color: #C9E6F2; /* Very light blue */
 }
@@ -5,4 +6,5 @@ body {
 p {
     color: 040138;
     font-size: 10px;
-    font-family: 'Times New Roman', serif;
+    font-family: 'Times New Roman', serif
+  <link rel="stylesheet" href="./style.css">
